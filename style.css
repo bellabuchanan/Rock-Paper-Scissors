@@ -1,0 +1,23 @@
+h1, h2 {
+    text-align: center;
+    color: blueviolet;
+}
+
+body {
+    display: grid;
+}
+
+button {
+    background-color: pink;
+}
+
+#playerSelection {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#trackers {
+    background-color: lightblue;
+}
